@@ -1,0 +1,7 @@
+¥Ú”°C0≥Ã–Ú?Y
+void mian(){
+int a;
+scanf(a);
+a = a + 1;
+printf(a);
+}
