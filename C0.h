@@ -1,4 +1,4 @@
-/*C0zzb.h-郭威*/
+/*C0.h*/
 #include<iostream>
 #include<fstream>
 #include<stdio.h>
@@ -43,7 +43,7 @@ enum symbol
 //名字表中的类型
 enum object
 {
-	variable, void_C0
+	variable, void_C0, int_C0
 };
 struct tablestruct
 {
